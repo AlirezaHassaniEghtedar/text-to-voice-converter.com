@@ -95,24 +95,19 @@ select {
         font-size: 27px;
         text-align: center;
     }
-    
     textarea , .row {
         width: calc(100% - 25px);
     }
-    
     .row {
         flex-direction: column;
     }
-
     select {
         padding: 20px 10px;
         width: 100%;
     }
-
     select option {
         text-align: left;
     }
-
     button {
         width: 100%;
         justify-content: center;
